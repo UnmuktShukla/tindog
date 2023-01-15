@@ -113,7 +113,7 @@ h2{
 .pri-col{
   padding: 3% 2%;
 }
-@media (max-width:578px) {
+@media (max-width:1028px) {
   #title{
     text-align: center;
   }
